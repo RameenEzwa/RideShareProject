@@ -1,0 +1,5 @@
+# Build / IDE files
+Makefile.win
+*.o
+*.dev
+*.layout
