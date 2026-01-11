@@ -1,5 +1,8 @@
-# Build / IDE files
-Makefile.win
+# Build files
 *.o
+*.exe
+
+# Dev-C++ / IDE files
+makefile.win
 *.dev
 *.layout
